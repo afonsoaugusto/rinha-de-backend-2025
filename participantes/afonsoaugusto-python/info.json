@@ -1,0 +1,17 @@
+{
+  "name": "Afonso Rodrigues",
+  "social": [
+    "https://www.linkedin.com/in/afonsoavr/",
+    "https://github.com/afonsoaugusto"
+  ],
+  "source-code-repo": "https://github.com/afonsoaugusto/rinha-de-backend-2025-code.git",
+  "langs": [
+    "python"
+  ],
+  "storages": [
+    "redis"
+  ],
+  "load-balancers": [
+    "nginx"
+  ]
+}
